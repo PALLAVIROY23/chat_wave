@@ -1,0 +1,5 @@
+package com.chat.chat_wave
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
