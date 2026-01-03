@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "668331081886",
+    "project_id": "chatwave-54a96",
+    "storage_bucket": "chatwave-54a96.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668331081886:android:74e6f48a7ca8d8a6837b8f",
+        "android_client_info": {
+          "package_name": "com.chat.chat_wave"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbss9gc2PZ6MlVF6-ZZNBvs8w_A2U4_tg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668331081886:android:c10b7a76c7657949837b8f",
+        "android_client_info": {
+          "package_name": "com.chatwave.chat_wave"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbss9gc2PZ6MlVF6-ZZNBvs8w_A2U4_tg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
